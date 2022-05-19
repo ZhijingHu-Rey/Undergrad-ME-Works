@@ -1,2 +1,2 @@
-# Undergraduate works @ Rutgers University
-
+# Undergraduate Works @ Rutgers University
+- By Zhijing Hu
